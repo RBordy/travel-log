@@ -1,0 +1,18 @@
+{
+  "title": "Empire State Building",
+  "comments": "Visited the top of the Empire State Building!",
+  "latitude": 40.748817,
+  "longitude": -73.985428,
+  "rating": 7,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/250px-Empire_State_Building_%28aerial_view%29.jpg",
+  "visitDate": "2020-08-01T06:49:16.098Z"
+},
+{
+  "title": "Ripley's Aquarium",
+  "comments": "Visited the Ripley Aquarium!",
+  "latitude": 43.642604,
+  "longitude": -79.386038,
+  "rating": 8,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ripley%27s_Aquarium_of_Canada%2C_Toronto%2C_Ontario.jpg/220px-Ripley%27s_Aquarium_of_Canada%2C_Toronto%2C_Ontario.jpg",
+  "visitDate": "2020-08-01T07:42:16.098Z"
+}
